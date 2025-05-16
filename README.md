@@ -1,6 +1,3 @@
-# Aloha-Pharmacy-Inventory-System-with-POS
-Event Driven X Application Development
-
 # Aloha Pharmacy - Inventory and POS System
 
 A modern pharmacy management system built with Django REST Framework backend and React frontend.
